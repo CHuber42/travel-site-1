@@ -9,9 +9,12 @@
  .navbar a {
    float: left;
    display: block;
-   color: blue;
+   color:white;
    text-align: center;
-   padding: auto;
+   padding-left: 115px;
+   padding-right: 115px;
+   padding-top: 25 px;
+   padding-bottom: 15px;
    text-decoration: none;
    font-size: 17px;
  }
@@ -21,13 +24,27 @@
   color: blueviolet;
 }
 
-body {
-  background-image: url("/pics/islandbg.jpg");
-  background-color: #0086be;
-  height: auto;
-  width: auto;
+div.main{
+  margin-top: 200px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom:200px;
+  color: #0086FE;
+  border: 5px solid black;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+
 }
 
-p{
-  color: #0086be;
+body  {
+  background-image: url(".../pics/islandbg.jpg");
+  background-color: #cccccc;
+  background-position: center;
+}
+
+p {
+  color: white;
+  text-align: center;
+  background-color: #222222;
 }
