@@ -11,41 +11,47 @@
    display: block;
    color:#E76220;
    text-align: center;
-   padding-left: 115px;
-   padding-right: 115px;
+   padding-left: 110px;
+   padding-right: 110px;
    padding-top: 25 px;
    padding-bottom: 15px;
    text-decoration: none;
    font-size: 17px;
+   font-family: Arial, Helvetica, sans-serif;
  }
 
 .navbar a.active {
   background-color: #99FFD2;
   color: #55764F;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-div.main  {
-  margin-top: 200px;
-  margin-left: 100px;
-  margin-right: 100px;
-  margin-bottom:200px;
+div.main{
+  margin-top: 0%;
+  margin-left: 79%;
+  margin-right: 5px;
+  margin-bottom: 5px;
   color: #55764F;
   border: 5px solid #07B777;
   text-align: center;
   padding-top: 30px;
   padding-bottom: 30px;
-
+  height: 720px;
+  font-family: Arial, Helvetica, sans-serif;
 }
+
+
 
 body  {
   background-image: url("../pics/islandbg.jpg");
-  background-color: #99FFD2;
-  background-position: right;
   background-repeat: no-repeat;
+  background-color: #99FFD2;
+  background-position: center;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 p {
   color: #3E1500;
   text-align: center;
-  background-color: #07B777;
+  font-family: Arial, Helvetica, sans-serif;
 }
