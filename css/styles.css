@@ -1,5 +1,5 @@
 .navbar {
-  background-color: #222222;
+  background-color: #07B777;
   overflow: hidden;
   position: fixed;
   bottom: 0;
@@ -9,7 +9,7 @@
  .navbar a {
    float: left;
    display: block;
-   color:white;
+   color:#E76220;
    text-align: center;
    padding-left: 115px;
    padding-right: 115px;
@@ -20,8 +20,8 @@
  }
 
 .navbar a.active {
-  background-color: rgba(240, 248, 255, 0.932);
-  color: blueviolet;
+  background-color: #99FFD2;
+  color: #55764F;
 }
 
 div.main{
@@ -29,8 +29,8 @@ div.main{
   margin-left: 100px;
   margin-right: 100px;
   margin-bottom:200px;
-  color: #0086FE;
-  border: 5px solid black;
+  color: #55764F;
+  border: 5px solid #07B777;
   text-align: center;
   padding-top: 30px;
   padding-bottom: 30px;
@@ -39,12 +39,12 @@ div.main{
 
 body  {
   background-image: url(".../pics/islandbg.jpg");
-  background-color: #cccccc;
+  background-color: #99FFD2;
   background-position: center;
 }
 
 p {
-  color: white;
+  color: #3E1500;
   text-align: center;
-  background-color: #222222;
+  background-color: #07B777;
 }
