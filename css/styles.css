@@ -24,7 +24,7 @@
   color: #55764F;
 }
 
-div.main{
+div.main  {
   margin-top: 200px;
   margin-left: 100px;
   margin-right: 100px;
@@ -38,9 +38,10 @@ div.main{
 }
 
 body  {
-  background-image: url(".../pics/islandbg.jpg");
+  background-image: url("../pics/islandbg.jpg");
   background-color: #99FFD2;
-  background-position: center;
+  background-position: right;
+  background-repeat: no-repeat;
 }
 
 p {
